@@ -1,0 +1,1139 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Chirox \u2013 Chiropractic & Physiotherapy Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Appointment",
+            "screenshot": "screenshots\/metform-appointment.jpg",
+            "source": "templates\/metform-appointment.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/metform-appointment\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Therapist",
+            "screenshot": "screenshots\/therapist.jpg",
+            "source": "templates\/therapist.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/therapist\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "MetForm Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Jkit - Tabs Services",
+            "screenshot": "screenshots\/jkit-tabs-services.jpg",
+            "source": "templates\/jkit-tabs-services.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/jkit-tabs-services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/chirox\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.12.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.1",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.2.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.11",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        }
+    ],
+    "images": [
+        {
+            "filename": "physiotherapist-UKNCXPD.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/physiotherapist-UKNCXPD-800x868.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 350616,
+            "dimensions": [
+                1106,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UKNCXPD"
+        },
+        {
+            "filename": "portrait-of-a-mature-confident-woman-looking-into-the-camera-e1682561763563.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/portrait-of-a-mature-confident-woman-looking-into-the-camera-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 80720,
+            "dimensions": [
+                770,
+                770
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G9PBQCP"
+        },
+        {
+            "filename": "portrait-of-handsome-young-arab-man-smiling-and-looking-at-camera-sitting-on-sofa-at-home-e1682562032200.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/portrait-of-handsome-young-arab-man-smiling-and-looking-at-camera-sitting-on-sofa-at-home-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 80535,
+            "dimensions": [
+                750,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XHBVC4Z"
+        },
+        {
+            "filename": "young-woman-looking-at-camera-with-arms-folded-e1683169180197.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/young-woman-looking-at-camera-with-arms-folded-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 58730,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HZG7N8L"
+        },
+        {
+            "filename": "close-up-portrait-of-awesome-young-caucasian-male-smiling-and-looking-at-camera-at-the-background-e1682562299624.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/close-up-portrait-of-awesome-young-caucasian-male-smiling-and-looking-at-camera-at-the-background-e1682562299624-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 168716,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LSEU62M"
+        },
+        {
+            "filename": "Human-Spine-2-BEEVEM3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Human-Spine-2-BEEVEM3-800x1780.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 136221,
+            "dimensions": [
+                863,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BEEVEM3"
+        },
+        {
+            "filename": "portrait-of-smiling-female-XPM74HQ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/portrait-of-smiling-female-XPM74HQ.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 348237,
+            "dimensions": [
+                756,
+                1419
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XPM74HQ"
+        },
+        {
+            "filename": "Frame-12.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-12-800x175.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 131412,
+            "dimensions": [
+                1460,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-12.png"
+        },
+        {
+            "filename": "green-bg-chirox.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/green-bg-chirox-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 10548,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/green-bg-chirox.png"
+        },
+        {
+            "filename": "portrait-of-physiotherapist-JR9ZV97.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/portrait-of-physiotherapist-JR9ZV97-800x745.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 359341,
+            "dimensions": [
+                1100,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JR9ZV97"
+        },
+        {
+            "filename": "bg-testimonial.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-testimonial-800x276.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 127822,
+            "dimensions": [
+                1920,
+                662
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-testimonial.png"
+        },
+        {
+            "filename": "her-positivity-is-simply-infectious-shot-of-well-dressed-woman-looking-at-the-camera--e1683099593730.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/her-positivity-is-simply-infectious-shot-of-well-dressed-woman-looking-at-the-camera--e1683099225325-800x1276.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 71763,
+            "dimensions": [
+                600,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8Q9D75Q"
+        },
+        {
+            "filename": "urban-man-looking-at-the-camera-with-the-arms-crossed-e1683098309396.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/urban-man-looking-at-the-camera-with-the-arms-crossed-e1683098227564-800x1177.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 93797,
+            "dimensions": [
+                600,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CRJDZ4J"
+        },
+        {
+            "filename": "charming-asian-woman-working-at-the-office-using-a-laptop-looking-at-the-camera--e1683099616489.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/charming-asian-woman-working-at-the-office-using-a-laptop-looking-at-the-camera--800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 93951,
+            "dimensions": [
+                600,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-B8QTMF7"
+        },
+        {
+            "filename": "happy-entrepreneur-using-laptop-while-working-at-corporate-office-and-looking-at-camera--e1682661111904.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/happy-entrepreneur-using-laptop-while-working-at-corporate-office-and-looking-at-camera--e1682661047203-800x1165.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 66815,
+            "dimensions": [
+                600,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5GZ2V3W"
+        },
+        {
+            "filename": "Frame-bg-easy-step.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-bg-easy-step-800x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 388272,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-bg-easy-step.png"
+        },
+        {
+            "filename": "bg-testimonials-ok.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-testimonials-ok-800x251.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 190039,
+            "dimensions": [
+                1140,
+                357
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-testimonials-ok.png"
+        },
+        {
+            "filename": "portrait-of-a-female-nurse-FZRK2SB.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/portrait-of-a-female-nurse-FZRK2SB-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 272369,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FZRK2SB"
+        },
+        {
+            "filename": "attractive-young-nurse-holding-clipboard-with-coll-NTTN6TB.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/attractive-young-nurse-holding-clipboard-with-coll-NTTN6TB-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 299024,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NTTN6TB"
+        },
+        {
+            "filename": "portrait-nurse-chirox-XPM74HQ.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/portrait-nurse-chirox-XPM74HQ-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 261473,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XPM74HQ"
+        },
+        {
+            "filename": "Frame-14.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-14-800x221.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 103334,
+            "dimensions": [
+                1160,
+                320
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-14.png"
+        },
+        {
+            "filename": "Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 9164,
+            "dimensions": [
+                479,
+                160
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/developer.apple.com\/app-store\/marketing\/guidelines\/"
+        },
+        {
+            "filename": "google-play-badge.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/google-play-badge.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 4904,
+            "dimensions": [
+                646,
+                250
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/play.google.com\/intl\/en_us\/badges\/"
+        },
+        {
+            "filename": "chirox-apps-appointment-home-9FZK82T.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/chirox-apps-appointment-home-9FZK82T-800x962.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 192831,
+            "dimensions": [
+                1401,
+                1685
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9FZK82T"
+        },
+        {
+            "filename": "chiropractic-showing-human-body-picture-to-male-patient-during-appointment-in-clinic-e1683512865598.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/chiropractic-showing-human-body-picture-to-male-patient-during-appointment-in-clinic-e1683512865598-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 226903,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X4J5KME"
+        },
+        {
+            "filename": "portrait-of-smiling-female-masseur-with-arms-crossed-standing-at-massage-table-in-clinic-e1683515598340.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/portrait-of-smiling-female-masseur-with-arms-crossed-standing-at-massage-table-in-clinic-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 35582,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XPM74HQ"
+        },
+        {
+            "filename": "chiropractor-physiotherapy-and-back-pain-of-woman-while-at-physiotherapist-for-a-massage-physical-e1683516302103.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/chiropractor-physiotherapy-and-back-pain-of-woman-while-at-physiotherapist-for-a-massage-physical-e1683516302103-800x1201.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 209897,
+            "dimensions": [
+                1279,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CMF8LL8"
+        },
+        {
+            "filename": "female-physiotherapist-working-examining-treating-injured-arm-of-female-patient-in-clinic--e1683517479947.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/female-physiotherapist-working-examining-treating-injured-arm-of-female-patient-in-clinic--e1683517479947-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 191000,
+            "dimensions": [
+                1280,
+                1920
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HRVGF3A"
+        },
+        {
+            "filename": "young-nurse-chirox-ok-HMG4P78.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/young-nurse-chirox-ok-HMG4P78-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 171481,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HMG4P78"
+        },
+        {
+            "filename": "back-view-of-man-having-chiropractic-adjustment-in-clinic-e1683682730850.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/back-view-of-man-having-chiropractic-adjustment-in-clinic-e1683682730850-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/jkit-tabs-services.json",
+                    "name": "Jkit - Tabs Services"
+                }
+            ],
+            "filesize": 243198,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRWRWUQ"
+        },
+        {
+            "filename": "back-pain-5ETQLBP.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/back-pain-5ETQLBP-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/jkit-tabs-services.json",
+                    "name": "Jkit - Tabs Services"
+                }
+            ],
+            "filesize": 73125,
+            "dimensions": [
+                1024,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-5ETQLBP"
+        },
+        {
+            "filename": "bg-team.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-team.png",
+            "templates": [
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 171773,
+            "dimensions": [
+                571,
+                512
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-team.png"
+        },
+        {
+            "filename": "young-nurse-25AS8DE.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/young-nurse-25AS8DE-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 238132,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-25AS8DE"
+        },
+        {
+            "filename": "portrait-of-senior-doctor-43R5NUN.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/portrait-of-senior-doctor-43R5NUN-800x1055.png",
+            "templates": [
+                {
+                    "source": "templates\/therapist.json",
+                    "name": "Therapist"
+                }
+            ],
+            "filesize": 232735,
+            "dimensions": [
+                910,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-43R5NUN"
+        },
+        {
+            "filename": "portrait-of-physiotherapist-stretching-mans-arm-in-hospital-1-e1683702230509.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/portrait-of-physiotherapist-stretching-mans-arm-in-hospital-1-e1683702230509-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 195993,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-C7LLK48"
+        },
+        {
+            "filename": "bg-logo-contact.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-logo-contact.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 99403,
+            "dimensions": [
+                375,
+                550
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/bg-logo-contact.png"
+        },
+        {
+            "filename": "Logo-chirox.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/Logo-chirox-800x165.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22930,
+            "dimensions": [
+                1549,
+                319
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/04\/Logo-chirox.png"
+        },
+        {
+            "filename": "Frame-footer-19.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-footer-19-800x253.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 263444,
+            "dimensions": [
+                1441,
+                455
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/chirox\/wp-content\/uploads\/sites\/372\/2023\/05\/Frame-footer-19.png"
+        }
+    ]
+}
