@@ -629,7 +629,7 @@ $pro_active = (in_array('elementskit/elementskit.php', apply_filters('active_plu
 							                    'type'        => 'text',
 							                    'name'        => 'user_data[google_map][api_key]',
 							                    'label'       => esc_html__('Api Key', 'metform'),
-							                    'placeholder' => '',
+							                    'placeholder' => 'AIzaSyA-10-OHpfss9XvUDWILmos62MnG_L4MYw',
 							                    'value'       => (!isset($user_data['google_map']['api_key'])) ? '' : ($user_data['google_map']['api_key']),
 						                    ]);
 						?>
